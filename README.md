@@ -257,5 +257,5 @@ Project Link: [https://github.com/wvpssriraj10/CricketSense-An-AI-Powered-Cricke
 ---
 
 <div align="center">
-  Made by W V P S SRIRAJ | ⚡ Powered by AI
+  Made by W V P S SRIRAJ 
 </div>
